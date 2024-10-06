@@ -121,6 +121,7 @@ margin: 3px 6px
 }
 /* services */
 #services{
+    height: 300px;
     margin: 34px;
     display: flex;
 
@@ -133,7 +134,7 @@ margin: 3px 6px
     background-color: #ecdede;
 }
 #services .box img{
-    height: 160px;
+    height: 120px;
     margin: auto;
     display: block  ;
 }
